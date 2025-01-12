@@ -24,41 +24,6 @@ From winning hackathons to managing 3,000+ students in a School ERP system.
 
 ---
 
-## 📂 Featured Projects
-
-### 🎯 [MedList](#)
-- **Tech Stack**: Flutter, Node.js, Firebase, MongoDB  
-- **Live Demo**: [🔗 Click Here](https://play.google.com/store/apps/details?id=com.aswdc_medlist&pcampaignid=web_share)  
-- **Highlights**:
-  - Developed a **doctor directory** with advanced search and real-time database integration.
-  - Ensured a smooth user experience with optimized backend queries.
-
----
-
-### 🎮 [Puzzle Blaster](#)
-- **Tech Stack**: Unity, C#  
-- **Live Demo**: [🔗 Click Here](https://play.google.com/store/apps/details?id=com.AffluenceGames.PuzzleBlaster&pcampaignid=web_share)  
-- **Highlights**:
-  - Designed an **interactive children’s game** with engaging levels and smooth gameplay mechanics.
-  - Focused on intuitive controls and accessibility.
-
----
-
-### 🏫 [School Management System (ERP)](#)
-- **Tech Stack**: Flutter, Node.js, Firebase, MongoDB   
-- **Highlights**:
-  - Managing **1-2 schools** with **3,000+ students**, automating administrative tasks seamlessly.
-  - Integrated real-time updates for smooth operations and efficient communication.
-
----
-
-### 🛠️ [Prolance](#)
-- **Tech Stack**: Flutter, Node.js, MongoDB, Machine Learning  
-- **Highlights**:
-  - Built a **freelancer platform** featuring job posting, bidding, and **AI-powered freelancer recommendations**.
-  - Integrated **WebSocket** for real-time updates and ML-based tools for automation.
-
----
 
 ## 🌐 Let's Connect!
 - 📧 Email: **kapdibhagirath7@gmail.com**  
