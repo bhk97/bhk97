@@ -1,11 +1,5 @@
 # 👋 Hi, I'm Bhagirath Kapdi!
-
-🎯 **Turning Ideas Into Reality**  
-🌟 Aspiring **Software Developer** passionate about crafting **mobile & web applications** that solve real-world problems.  
-📍 Based in Gujarat, India | 📚 Currently pursuing **B.Tech in Computer Science** (2022–2026).
-
 ---
-
 ## 🚀 About Me
 I'm a dedicated software enthusiast with hands-on experience building **scalable applications** and solving challenging problems.  
 From winning hackathons to managing 3,000+ students in a School ERP system.  
