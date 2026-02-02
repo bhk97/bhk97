@@ -5,7 +5,7 @@ I build high-performance mobile architectures that bridge the gap between cross-
 
 ---
 
-## 🚀 The "Unreplaceable" Edge
+## 🚀 The Edge
 * **Native Bridge Expert:** I don't just use plugins; I build them. Specialized in bridging **Swift/Kotlin** for AWS FaceLiveness and ML Kit, resolving critical stability issues on low-end hardware.
 * **Web3 & Security:** Architected secure Solana integrations (Phantom/Solflare) with hardware-backed signing via the Secure Enclave.
 * **Performance at Scale:** Reduced crash rates by **50%** for production apps by implementing custom frontend logging and optimized state management.
