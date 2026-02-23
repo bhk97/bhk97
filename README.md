@@ -31,9 +31,9 @@ I build high-performance mobile architectures that bridge the gap between cross-
 ---
 
 ## 🌐 Let's Connect
-- 📧 [kapdibhagirath7@gmail.com](mailto:kapdibhagirath7@gmail.com)
+- 📧 [bhagirath9778@gmail.com](mailto:bhagirath9778@gmail.com)
 - 💼 [LinkedIn](https://in.linkedin.com/in/bhagirath-kapdi-87a850319)
-- 🐦 [Twitter/X](https://x.com/kapdi_bhagirath)
+- 🐦 [Twitter/X](https://x.com/solvian97)
 
 ---
 🌱 *"Engineering autonomy and high-performance systems for the edge."*
