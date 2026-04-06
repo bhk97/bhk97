@@ -3,6 +3,7 @@ Bhagirath Kapdi — Systems Engineer
 Building with Rust. Focused on vector search, search quality, and high-performance data pipelines.
 
 Active projects
+
 · rerank-rs — local cross-encoder reranking, no Python required
 
 · flutter_build_analyser — binary-level bloat detection for Flutter apps
