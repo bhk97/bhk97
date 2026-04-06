@@ -4,7 +4,9 @@ Building with Rust. Focused on vector search, search quality, and high-performan
 
 Active projects
 · rerank-rs — local cross-encoder reranking, no Python required
+
 · flutter_build_analyser — binary-level bloat detection for Flutter apps
+
 · hybrid search coordinator - production level hybrid approach of various algo
 
 Previously shipped production mobile at Mercle.ai, Singapore — wallet flows, identity verification, iOS App Clips.
